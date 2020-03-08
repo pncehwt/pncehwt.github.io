@@ -1,3 +1,5 @@
+
+
 @font-face {
     font-family: proxima-nova;
     src: url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?subset_id=2&fvd=n4&v=3) format("woff2"), url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/d?subset_id=2&fvd=n4&v=3) format("woff"), url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
@@ -137,6 +139,76 @@ header {
             background-color: #fff;
             color: #000;
         }
+        .mobile-menu {
+            display: none;
+        }
+
+@media only screen and (max-width: 33.75em) { 
+    nav.main-nav
+    {
+        display:none;
+        margin: 0;
+        padding: 2em 0 0  0;
+        background-color: #fff;
+        border: 1px solid rgba(26,26,26,.9);
+        color: rgba(26,26,26,.9);
+        font-size: 13pt;
+        width: 75%;
+        position: absolute;
+        top: 0;
+        right: 0;
+    }
+        nav.main-nav a {
+            color: #000;
+            width: 100%;
+            height: 100%;
+            padding: 1em 1.5em;
+            
+        }
+        nav.main-nav .folder-toggle {
+            padding: 0em .5em .5em 0;
+        }
+            
+        nav.main-nav .nav {
+            box-sizing: border-box;
+            display: block;
+            padding: 1em .25em;
+        }
+        nav.main-nav .folder {
+            position: relative;
+            padding: 1em 1.5em .5em 1.5em;
+        }
+        nav.main-nav .folder .subnav {
+            display: block;
+            width: 100% /*let sub menu have a little more space*/
+        }
+        nav.main-nav .folder .subnav .nav {
+            display: inline-grid;
+            padding: 0;
+        }
+        nav.main-nav .nav-highlight {
+            border-radius: 275px;
+            border: 2px solid rgba(26,26,26,.9);
+            padding: .5em 2em;
+            width: 60%;
+            display:block;
+            margin: auto;
+            text-align: center;
+        }
+        .mobile-menu {
+            display: block;
+            position: absolute;
+            top: 10;
+            right: 0;
+            padding: 1em 1.5em;
+            font-weight: bold;
+            font-size: 13pt;
+            cursor: pointer;
+            background-color:  #fff;
+            color: #000;
+            border-radius: 300px;
+        }
+}
 
 
 /* Main body of all pages*/
@@ -318,6 +390,36 @@ header {
             border-radius: 300px;
         }
 
+@media only screen and (max-width: 33.75em) { 
+    .main-body {
+        padding: 0;
+    }
+    .main-body h1 {
+        margin: 0 .25em;
+    }
+    .main-body p {
+        text-align: justify;
+        padding: 0 1em;
+        line-height: 1.2em;
+    }
+    .main-body .thumb-image {
+        max-width: 100%;
+    }
+
+    .banner {
+        padding: 180px 0 0 0;
+    }
+    .description strong {
+        font-size: 30px;
+    }
+    .footer-topper-decoration {
+        display:none;
+    }
+    #contact-info {
+        padding: 1em;
+    }
+
+}
 
 
 /* Footer */

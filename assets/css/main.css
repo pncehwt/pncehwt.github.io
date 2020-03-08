@@ -1,0 +1,426 @@
+@font-face {
+    font-family: proxima-nova;
+    src: url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/l?subset_id=2&fvd=n4&v=3) format("woff2"), url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/d?subset_id=2&fvd=n4&v=3) format("woff"), url(https://use.typekit.net/af/705e94/00000000000000003b9b3062/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: proxima-nova;
+    src: url(https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/l?subset_id=2&fvd=i4&v=3) format("woff2"), url(https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/d?subset_id=2&fvd=i4&v=3) format("woff"), url(https://use.typekit.net/af/5c70f2/00000000000000003b9b3063/27/a?subset_id=2&fvd=i4&v=3) format("opentype");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: proxima-nova;
+    src: url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/l?subset_id=2&fvd=n6&v=3) format("woff2"), url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/d?subset_id=2&fvd=n6&v=3) format("woff"), url(https://use.typekit.net/af/576d53/00000000000000003b9b3066/27/a?subset_id=2&fvd=n6&v=3) format("opentype");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: proxima-nova;
+    src: url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/l?subset_id=2&fvd=n7&v=3) format("woff2"), url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/d?subset_id=2&fvd=n7&v=3) format("woff"), url(https://use.typekit.net/af/949f99/00000000000000003b9b3068/27/a?subset_id=2&fvd=n7&v=3) format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: adobe-garamond-pro;
+    src: url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/l?subset_id=2&fvd=n4&v=3) format("woff2"), url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/d?subset_id=2&fvd=n4&v=3) format("woff"), url(https://use.typekit.net/af/2011b6/00000000000000003b9b00c1/27/a?subset_id=2&fvd=n4&v=3) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+/* GENERAL */
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    background-color: #fff;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(26, 26, 26, .7);
+    background: transparent;
+}a:hover {
+    text-decoration: underline;
+    color: rgba(26, 26, 26, .7);
+    background: transparent;
+}
+hr {
+    clear:both;
+    padding: 0 17px;
+    margin: 32px 0;
+    color: rgba(26,26,26,.15);
+}
+
+header {
+    z-index: 1000;
+    position: absolute;
+    width: 100%;
+}
+
+    /* HEADER IMAGE */
+    header #logoWrapper, 
+    header #logoImage {
+        width: 200px;
+        margin: 10px 0 0 10px;
+        
+    }
+    #logoImage {
+        margin: 0;
+        font-size: 0;
+        max-width: 100%;
+        float: left;
+    }
+    #logoImage img {
+        height: auto;
+        max-height: 100px;
+        width: auto;
+        max-width: 100%;
+    }
+
+
+    /* NAVIGATION */
+    nav.main-nav
+    {
+        margin: 2.5em 1em 0 0;
+        float: right;
+        font-family: "proxima-nova";
+        font-size: 13px;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: 600;
+        line-height: 1em;
+        color: rgba(255,255,255,.9);
+    }
+        nav.main-nav a {
+            color: #fff;
+            width: 100%;
+            height: 100%;
+            padding: 1em 1.5em;
+        }
+        nav.main-nav .nav {
+            box-sizing: border-box;
+            display: inline-block;
+            vertical-align: middle;
+            padding: 1em .25em;
+        }
+        nav.main-nav .folder {
+            position: relative;
+        }
+        nav.main-nav .folder .subnav {
+            display: none;
+            width: 250% /*let sub menu have a little more space*/
+        }
+        nav.main-nav .folder:hover .subnav {
+            display: inline-grid;
+            position: absolute;
+            margin: 12px 0 0 0;
+            background-color: #b3b3b3;
+            border: 1px solid #b9b9b9;
+        }
+        nav.main-nav .folder .subnav .nav {
+            display: inline-grid;
+            padding: 0;
+        }
+        nav.main-nav .nav-highlight {
+            border-radius: 300px;
+            border: 2px solid #fff;
+            padding: 1em 2em;
+        }
+        nav.main-nav .nav-highlight:hover {
+            background-color: #fff;
+            color: #000;
+        }
+
+
+/* Main body of all pages*/
+.main-body {
+    background-color: #fff;
+    padding: 4em 0 4em 0;
+}
+
+    .main-body h1,
+    .main-body h2,
+    .main-body h3,
+    .main-body p {
+        font-family: "proxima-nova";
+        line-height: 1.2em;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    .main-body h1 {
+        color: rgba(26,26,26,.9);
+        font-size: 32px;
+        text-transform: none;
+        letter-spacing: 0px;
+    }
+    .main-body h2 {
+        color: #4a4a4a;
+        font-size: 22px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    .main-body h3 {
+        color: #4a4a4a;
+        font-size: 16px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: 600;
+    }
+    .main-body p {
+        font-size: 18px;
+        line-height: 1.6em;
+        letter-spacing: 0px;
+        color:
+        rgba(26,26,26,.7);
+    }
+
+    .main-body ul.subnav {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .main-body li {
+        font-family: "proxima-nova";
+        font-size: 18px;
+        line-height: 1.6em;
+        color: rgba(26,26,26,.7);
+    }
+
+.call-to-action  {
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: "proxima-nova";
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 600;
+    font-style: normal;
+    text-decoration: none;
+    padding: 1em 1.75em;
+    background-color: #3a007b;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    line-height: 1em;
+    margin: 10px 0;
+    color: #fff;
+    border: none;
+    -webkit-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+    -moz-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+    -ms-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+    -o-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+    transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+}
+.call-to-action:hover {
+    background-color: #613395;
+    color: #fff;
+}
+
+/* Home Page Banner*/
+.banner {
+    position: relative;
+    overflow: hidden;
+    min-height: 320px;
+    width: 100%;
+    padding: 180px 0 155px;
+}
+    .banner .color-overlay {
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-color: rgba(0,0,0,.3);
+        z-index: 99;
+    }
+    figure {
+        margin: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%
+    }
+    figure > img {
+        width:100%;
+        position: relative;
+    }
+
+
+    .description {
+        -webkit-animation: feature-text-anim .75s ease-in-out;
+        animation: feature-text-anim .75s ease-in-out;
+        z-index: 100;
+        position: relative;
+        width: 100%;
+        max-width: 956px;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        margin: 0 auto;
+        padding: 32px;
+        text-align: center;
+        text-rendering: optimizeLegibility;
+    }
+        .description em {
+            font-family: "adobe-garamond-pro";
+            font-size: 24px;
+            line-height: 1.5em;
+            text-transform: none;
+            letter-spacing: 1px;
+            font-weight: 400;
+            color: #fff;
+            margin: 20px auto;
+        }
+        .description strong {
+            font-family: "proxima-nova";
+            font-size: 68px;
+            line-height: 1em;
+            text-transform: uppercase;
+            font-weight: 700;
+            color: #fff;
+        }
+        .description p > a {
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+            letter-spacing: 1px;
+            font-family: "proxima-nova";
+            font-size: 15px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: 600;
+            font-style: normal;
+            text-decoration: none;
+            padding: 1em 1.75em;
+            background-color: #3a007b;
+            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
+            display: inline-block;
+            line-height: 1em;
+            margin: 10px 0;
+            color: #fff;
+            border: none;
+            -webkit-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+            -moz-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+            -ms-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+            -o-transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+            transition: background-color .1s 0s ease-in-out,color .1s 0s ease-in-out;
+            border-radius: 300px;
+        }
+
+
+
+/* Footer */
+.footer {
+    text-align: center;
+    background-color: #1f1f1f;
+    padding-bottom: 3em;
+}
+    .footer a {
+        color: #fff;
+    }
+    .footer .footer-topper-decoration {
+        background-image: url('/assets/site/pnce_bottom_background.jpg');
+        background-repeat: repeat-x;
+        height: 184px;
+    }
+    .footer nav {
+        margin: 3em 0 2em 0;
+    }
+    .footer nav div {
+        box-sizing: border-box;
+        display: inline-block;
+        vertical-align: middle;
+        padding: 1em;
+        line-height: 1.25em;
+
+        font-family: "proxima-nova";
+        font-size: 13px;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-style: normal;
+    }
+    #contact-info {
+        font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-weight: 600;
+        letter-spacing: 1px;
+        font-family: "proxima-nova";
+        font-size: 14px;
+        text-transform: uppercase;
+        text-decoration: none;
+        letter-spacing: 2px;
+        font-weight: 400;
+        font-style: normal;
+        color: rgba(255,255,255,.8);
+    }
+        #contact-info .contact-owner {
+            font-family: "proxima-nova";
+            font-size: 18px;
+            line-height: 1.6em;
+            letter-spacing: 0px;
+            font-weight: 400;
+            font-style: normal;
+            color: rgba(255,255,255,.4);
+            text-transform: none;
+        }
+        #contact-info span {
+            margin-right: 1em;
+        }
+
+
+nav#accessibility {
+    text-align: right;
+    background-color: #1f1f1f;
+    padding: 0 .5em .5em 0;
+}
+nav#accessibility a {
+    color: #fff;
+}
+
+
+/* Testimonials */
+article.testimony {
+    margin: 0 0 8em 0;
+}
+    article.testimony > header {
+        position: relative;
+    }
+    article.testimony > header time {
+        color: rgba(26,26,26,.4);
+    }
+    article.testimony > header h1 {
+        margin: .25em 0 .25em 0;
+    }
+    article.testimony > header h1 a {
+        color: rgba(26,26,26,.9);
+    }
+    article.testimony > .content p {
+        text-align: right;
+        font-style: italic;
+        font-family: "proxima-nova";
+        font-size: 18px;
+        line-height: 1.6em;
+        letter-spacing: 0px;
+        font-weight: 400;
+        color:rgba(26,26,26,.7);
+    }
+    article.testimony > .content blockquote {
+        font-family: "proxima-nova";
+        font-size: 18px;
+        line-height: 1.6em;
+        letter-spacing: 0px;
+        font-weight: 400;
+        color:rgba(26,26,26,.7);
+    }

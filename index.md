@@ -31,13 +31,12 @@ layout: default
           PNCE Health and Welfare Trust
         </h1>
         <p class="center">
-          Since 1959, the Pacific Northwest Consulting Engineers
-          Health &amp;<br />Welfare Trust has provided competitive
-          benefits to member firms and has<br />used its assets to
-          reduce costs or to generate premium holidays.<br />Our
-          mission to provide competitive benefits and to assure<br />quality
+          Since 1959, the Pacific Northwest Consulting Engineers Health &amp; Welfare Trust has provided competitive
+          benefits to member firms and has used its assets to
+          reduce costs or to generate premium holidays. Our
+          mission to provide competitive benefits and to assure quality
           healthcare choices for member firms of the American
-          Council of<br />Engineering Companies of Oregon and
+          Council of Engineering Companies of Oregon and
           Washington.
         </p>
       </div>

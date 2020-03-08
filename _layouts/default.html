@@ -8,5 +8,14 @@
         {{content}}
 
         {% include page-footer.html %}
+        <script type="text/javascript">
+          function toggleBlock(e) {
+            if(e.style.display == 'block') {
+              e.style.display = 'none';
+            } else if(e.style.display == 'none' || e.style.display == '') {
+              e.style.display = 'block';
+            }
+          }
+        </script>
     </body>
 </html>

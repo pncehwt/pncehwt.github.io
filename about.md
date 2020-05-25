@@ -9,7 +9,7 @@ canonical-url: "about"
 layout: default
 ---
 
-<div class="banner" style="min-height: 250px;">
+<div class="banner banner-md">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img 

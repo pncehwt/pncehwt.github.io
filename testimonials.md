@@ -8,7 +8,7 @@ canonical-url: "testimonials"
 
 layout: default
 ---
-<div class="banner" style="min-height: 175px;">
+<div class="banner banner-md">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img src="/assets/images/engineering_white.jpg" data-image-dimensions="2500x1667"

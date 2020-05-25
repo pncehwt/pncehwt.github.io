@@ -9,7 +9,7 @@ canonical-url: "benefits/at-a-glance"
 layout: default
 ---
 
-  <div class="banner" style="min-height: 350px; padding: 0;">
+  <div class="banner banner-lg">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img src="/assets/images/PiggyBankStehoscope.jpg" 

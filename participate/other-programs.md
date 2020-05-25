@@ -8,7 +8,7 @@ canonical-url: "participate/other-programs"
 
 layout: default
 ---
-<div class="banner" style="min-height: 140px; padding: 0;">
+<div class="banner">
     <div class="color-overlay"></div>
   </div>
 

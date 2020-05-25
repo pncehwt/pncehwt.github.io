@@ -9,7 +9,7 @@ canonical-url: "index"
 layout: default
 ---
 
-<div class="banner">
+<div class="banner banner-lg">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img src="/assets/images/pnce_fruit_image.jpg" 

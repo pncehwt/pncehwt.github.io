@@ -9,7 +9,7 @@ canonical-url: "benefits/at-a-glance"
 layout: default
 ---
 
-  <div class="banner" style="min-height: 350px; padding: 0;">
+  <div class="banner banner-lg">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img src="/assets/images/PiggyBankStehoscope.jpg" 
@@ -29,7 +29,7 @@ layout: default
           on the first day of the month following 30 days of membership in either Council.</p>
           <div class="row">
             <div class="col-4">
-              <img src="/assets/images/MedicalPlans225x225.png" data-image-dimensions="441x341" data-image-focal-point="0.5,0.5" alt="Medical Plans" />
+              <img src="/assets/images/MedicalPlans225x225.jpb" data-image-dimensions="441x341" data-image-focal-point="0.5,0.5" alt="Medical Plans" />
             </div>
             <div class="col-8">
               <h2>FIND OUT MORE!</h2>
@@ -45,7 +45,7 @@ layout: default
           </div>
           <div class="row">
             <div class="col-4">
-              <img src="/assets/images/handshake225x225.jpg" data-image-dimensions="225x225" data-image-focal-point="0.5,0.5" alt="handshake.PNG" />
+              <img src="/assets/images/handshake225x225.jpg" data-image-dimensions="225x225" data-image-focal-point="0.5,0.5" alt="handshake" />
             </div>
             <div class="col-8">
               <h2>Administrative Ease</h2>

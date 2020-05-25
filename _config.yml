@@ -34,7 +34,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      og-image: "/assets/sites/PNCEHWTLogo.png"
+      og-image: "/assets/sites/PNCELogo193x100.png"
       og-image-width: "193px"
       og-image-height: "100px"
 

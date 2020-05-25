@@ -9,7 +9,7 @@ canonical-url: "join"
 layout: default
 ---
 
-<div class="banner" style="min-height: 250px;">
+<div class="banner banner-md">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img src="/assets/images/engimage.jpg" data-image-dimensions="1135x1030" data-image-focal-point="0.97,0.54"

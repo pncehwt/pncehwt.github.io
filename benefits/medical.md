@@ -8,7 +8,7 @@ canonical-url: "benefits/medical"
 
 layout: default
 ---
-  <div class="banner" style="min-height: 140px; padding: 0;">
+  <div class="banner">
     <div class="color-overlay"></div>
   </div>
   <div class="container main-body">

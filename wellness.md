@@ -9,7 +9,7 @@ canonical-url: "wellness"
 layout: default
 ---
 
-<div class="banner" style="min-height: 140px; padding: 0;">
+<div class="banner">
     <div class="color-overlay"></div>
   </div>
 
@@ -47,12 +47,6 @@ layout: default
             <img src="/assets/images/WellnessChallengeTrailHead.jpg" data-image-dimensions="480x480" data-image-focal-point="0.5,0.5" alt="A trail markder for the Pacific Crest Trail NO. 2000" />
             <br/>
             <img src="/assets/images/WellnessChallengePacific-Crest-Map.jpg" data-image-dimensions="294x555" data-image-focal-point="0.5,0.5" alt="A map of the Pacific Crest Trail" />
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-        </div>
-        <div class="col-6">
         </div>
     </div>
 </div>

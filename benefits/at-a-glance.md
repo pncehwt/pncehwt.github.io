@@ -29,7 +29,7 @@ layout: default
           on the first day of the month following 30 days of membership in either Council.</p>
           <div class="row">
             <div class="col-4">
-              <img src="/assets/images/MedicalPlans225x225.jpb" data-image-dimensions="441x341" data-image-focal-point="0.5,0.5" alt="Medical Plans" />
+              <img src="/assets/images/MedicalPlans225x225.jpg" data-image-dimensions="441x341" data-image-focal-point="0.5,0.5" alt="Medical Plans" />
             </div>
             <div class="col-8">
               <h2>FIND OUT MORE!</h2>

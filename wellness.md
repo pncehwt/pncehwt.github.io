@@ -24,6 +24,11 @@ layout: default
             </p>
         </div>
     </div>
+    <div class="row">
+        <div class="col-12 text-center">
+            <a href="https://pncehwt.walkertracker.com/" target="_blank" class="call-to-action">Register to Walk the PNCE PCT Challenge</a>
+        </div>
+    </div>
     <hr />
     <div class="row">
         <div class="col-8">
@@ -44,6 +49,11 @@ layout: default
             </ul>
         </div>
         <div class="col-4">
+            <h3>Additional Info</h3>
+            <ul>
+                <li><a href="/assets/documents/2020/PNCE2020StepsChallengePoster.pdf">Challenge Poster</a></li>
+                <li><a href="/assets/documents/2020/2020PNCEWalkingChallenge-HowToRegister.pdf">How to Register Guide</a></li>
+            </ul>
             <img src="/assets/images/WellnessChallengeTrailHead.jpg" data-image-dimensions="480x480" data-image-focal-point="0.5,0.5" alt="A trail markder for the Pacific Crest Trail NO. 2000" />
             <br/>
             <img src="/assets/images/WellnessChallengePacific-Crest-Map.jpg" data-image-dimensions="294x555" data-image-focal-point="0.5,0.5" alt="A map of the Pacific Crest Trail" />

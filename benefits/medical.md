@@ -42,7 +42,7 @@ layout: default
               $2,500 – Plan 25-Silver with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Plan%2b15%2bwith%2bRx.pdf">HDHP
+            <a href="/assets/documents/2020/Plan15HDHPwithRxSummary.pdf">HDHP
               $1,500 – Plan 15 with Rx</a>
           </li>
           <li>
@@ -57,7 +57,7 @@ layout: default
               Partner Rider</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Early%2bretiree.pdf">Early
+            <a href="/assets/documents/2020/EarlyRetiree.pdf">Early
               Retiree Plan</a>
           </li>
         </ul>
@@ -76,10 +76,6 @@ layout: default
           <li>
             <a href="/assets/documents/2020/ActiveAndFit-PHP2020.pdf">Active &amp; Fit Gym
               Membership Discount</a>
-          </li>
-          <li>
-            <a href="/assets/documents/2019/assist%2bamerica%2btravel%2band%2bID%2bprotection%2bservices.pdf">Assist America
-              Travel and ID Protection Services</a>
           </li>
           <li>
             <a href="/assets/documents/2020/EmergencyUrgentCare-PHP2020.pdf">Emergency and Urgent Care Flyer</a>

@@ -123,7 +123,7 @@ layout: default
                 Life Services Took Kit Flyer</a>
           </li>
           <li>
-            <a href="http://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001" data-type="iframe" class="lightbox">Standard Life Video</a>
+            <a href="https://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001" data-type="iframe" class="lightbox">Standard Life Video</a>
           </li>
         </ul>
         <h2>Cascade Employee Assistance</h2>

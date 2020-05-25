@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "/testimonials/2016/8/29/r-scott-wallace.html"
+canonical-url: "/testimonials/2016/8/29/r-scott-wallace"
 
 layout: testimonials
 ---
@@ -19,7 +19,7 @@ layout: testimonials
               <time class="updated" datetime="2017-03-12"></time>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/r-scott-wallace.html" rel="bookmark">R. Scott Wallace</a>
+              <a href="testimonials/2016/8/29/r-scott-wallace" rel="bookmark">R. Scott Wallace</a>
             </h1>
           </header>
           <div class="content">

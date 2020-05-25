@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/at-a-glance.html"
+canonical-url: "benefits/at-a-glance"
 
 layout: default
 ---
@@ -35,9 +35,10 @@ layout: default
               <h2>FIND OUT MORE!</h2>
               <ul>
                 <li>
-                  <p><a
-                      href="/assets/documents/2019/PNCE%2b2019%2bBenefits%2bGuide.pdf">2019
-                      benefits guide</a></p>
+                  <p><a href="/assets/documents/2020/PNCE2020BenefitsGuide.pdf">2020 benefits guide</a></p>
+                </li>
+                              <li>
+                  <p><a href="/assets/documents/2020/PNCE2020HSA-AllYouNeedToKnow.pdf">HSA - All you need to know</a></p>
                 </li>
               </ul>
             </div>

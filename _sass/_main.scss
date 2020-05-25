@@ -44,11 +44,11 @@ body {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
     color: rgba(26, 26, 26, .7);
     background: transparent;
 }a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: rgba(26, 26, 26, .7);
     background: transparent;
 }
@@ -89,6 +89,7 @@ header {
     /* NAVIGATION */
     nav.main-nav
     {
+        animation: nav-load 100ms ease-in 10ms;
         margin: 2.5em 1em 0 0;
         float: right;
         font-family: "proxima-nova";
@@ -300,6 +301,7 @@ header {
 
 /* Home Page Banner*/
 .banner {
+    
     position: relative;
     overflow: hidden;
     min-height: 320px;
@@ -526,3 +528,13 @@ article.testimony {
         font-weight: 400;
         color:rgba(26,26,26,.7);
     }
+
+@keyframes nav-load {
+    0%{
+        transform: scale(0.5);
+        
+    }
+    100%{
+        transform: scale(1);
+    }
+}

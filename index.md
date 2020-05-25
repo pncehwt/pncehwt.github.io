@@ -4,7 +4,7 @@ description: "Information for current and prospective member engineering firms i
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "index.html"
+canonical-url: "index"
 
 layout: default
 ---
@@ -20,7 +20,7 @@ layout: default
     <div class="description">
       <p><em>For Engineers By Engineers</em></p>
       <p><strong>Pacific Northwest Consulting Engineers Health and Welfare Trust</strong></p>
-      <p><a href="/benefits/at-a-glance.html">Learn More</a></p>
+      <p><a href="/benefits/at-a-glance">Learn More</a></p>
     </div>
   </div>
 
@@ -43,7 +43,7 @@ layout: default
     </div>
     <div class="row">
       <div class="col-6 center">
-        <a href="/benefits/at-a-glance.html">
+        <a href="/benefits/at-a-glance">
           <div>
             <img 
                 class="thumb-image" 
@@ -55,7 +55,7 @@ layout: default
           </div>
         </a>
         <h2 class="center">
-          <a href="/benefits/at-a-glance.html">OUR BENEFIT PLANS</a>
+          <a href="/benefits/at-a-glance">OUR BENEFIT PLANS</a>
         </h2>
         <p class="center">
           The Trust has been offering a comprehensive benefit
@@ -63,11 +63,11 @@ layout: default
           over 60 firms with over 700 employees.
         </p>
         <p class="center">
-          <a href="/benefits/at-a-glance.html">Learn More →</a>
+          <a href="/benefits/at-a-glance">Learn More →</a>
         </p>
       </div>
       <div class="col-6 center">
-        <a href="/benefits/join.html">
+        <a href="/benefits/join">
           <div>
             <img 
                 class="thumb-image" 
@@ -79,14 +79,14 @@ layout: default
           </div>
         </a>
         <h2 class="center">
-          <a href="/join.html">Join Us</a>
+          <a href="/join">Join Us</a>
         </h2>
         <p class="center">
           Learn about how to join the PNCE Health and Welfare
           Trust
         </p>
         <p class="center">
-          <a href="/join.html">Find Out How →</a>
+          <a href="/join">Find Out How →</a>
         </p>
       </div>
     </div>

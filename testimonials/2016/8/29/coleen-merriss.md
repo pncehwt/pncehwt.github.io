@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "/testimonials/2016/8/29/coleen-merriss.html"
+canonical-url: "/testimonials/2016/8/29/coleen-merriss"
 
 layout: testimonials
 ---
@@ -20,7 +20,7 @@ layout: testimonials
               </div>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/coleen-merriss.html" rel="bookmark">Coleen Merriss</a>
+              <a href="testimonials/2016/8/29/coleen-merriss" rel="bookmark">Coleen Merriss</a>
             </h1>
           </header>
           <div class="content">

@@ -64,6 +64,10 @@ body {
   min-height: 0.125rem;
 }
 
+.row [class^="col"] img {
+  width: 100%;
+}
+
 .col-1,
 .col-2,
 .col-3,
@@ -136,6 +140,8 @@ body {
 .hidden-sm {
   display: none;
 }
+
+
 
 @media only screen and (min-width: 33.75em) {  /* 540px */
   .container {

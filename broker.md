@@ -4,14 +4,13 @@ description: "Woodruff Sawyer is one of the largest insurance brokerage and cons
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "broker.html"
+canonical-url: "broker"
 
 layout: default
 ---
 <div class="banner" style="min-height: 140px; padding: 0;">
     <div class="color-overlay"></div>
-  </div>
-
+  </div>\
   <div class="container main-body">
     <div class="row">
       <div class="col-12">

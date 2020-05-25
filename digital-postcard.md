@@ -4,7 +4,7 @@ description: "Digital Postcard with videos and information about programs that w
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "digital-postcard.html"
+canonical-url: "digital-postcard"
 
 layout: default
 ---

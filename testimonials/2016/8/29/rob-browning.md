@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "/testimonials/2016/8/29/rob-browning.html"
+canonical-url: "/testimonials/2016/8/29/rob-browning"
 
 layout: testimonials
 ---
@@ -20,7 +20,7 @@ layout: testimonials
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/rob-browning.html" rel="bookmark">Rob Browning</a>
+              <a href="testimonials/2016/8/29/rob-browning" rel="bookmark">Rob Browning</a>
             </h1>
           </header>
           <div class="content">

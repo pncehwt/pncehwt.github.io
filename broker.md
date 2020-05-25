@@ -4,7 +4,7 @@ description: "Woodruff Sawyer is one of the largest insurance brokerage and cons
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "broker.html"
+canonical-url: "broker"
 
 layout: default
 ---

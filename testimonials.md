@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "testimonials.html"
+canonical-url: "testimonials"
 
 layout: default
 ---
@@ -28,7 +28,7 @@ layout: default
               <time class="updated" datetime="2017-01-07"></time>
             </div>
             <h1>
-              <a href="/testimonials/2017/1/7/john-e-zipper.html" rel="bookmark">John E. Zipper</a>
+              <a href="/testimonials/2017/1/7/john-e-zipper" rel="bookmark">John E. Zipper</a>
             </h1>
           </header>
           <div class="content">
@@ -49,7 +49,7 @@ layout: default
               <time class="updated" datetime="2017-03-12"></time>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/r-scott-wallace.html" rel="bookmark">R. Scott Wallace</a>
+              <a href="/testimonials/2016/8/29/r-scott-wallace" rel="bookmark">R. Scott Wallace</a>
             </h1>
           </header>
           <div class="content">
@@ -68,7 +68,7 @@ layout: default
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/rob-browning.html" rel="bookmark">Rob Browning</a>
+              <a href="/testimonials/2016/8/29/rob-browning" rel="bookmark">Rob Browning</a>
             </h1>
           </header>
           <div class="content">
@@ -91,7 +91,7 @@ layout: default
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/nancy-komola.html" rel="bookmark">Nancy Komola</a>
+              <a href="/testimonials/2016/8/29/nancy-komola" rel="bookmark">Nancy Komola</a>
             </h1>
           </header>
           <div class="content">
@@ -112,7 +112,7 @@ layout: default
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/mike-merrill.html" rel="bookmark">Mike Merrill</a>
+              <a href="/testimonials/2016/8/29/mike-merrill" rel="bookmark">Mike Merrill</a>
             </h1>
           </header>
           <div class="content">
@@ -131,7 +131,7 @@ layout: default
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/erik-peterson.html" rel="bookmark">Erik Peterson</a>
+              <a href="/testimonials/2016/8/29/erik-peterson" rel="bookmark">Erik Peterson</a>
             </h1>
           </header>
           <div class="content">
@@ -149,7 +149,7 @@ layout: default
               </div>
             </div>
             <h1>
-              <a href="/testimonials/2016/8/29/coleen-merriss.html" rel="bookmark">Coleen Merriss</a>
+              <a href="/testimonials/2016/8/29/coleen-merriss" rel="bookmark">Coleen Merriss</a>
             </h1>
           </header>
           <div class="content">

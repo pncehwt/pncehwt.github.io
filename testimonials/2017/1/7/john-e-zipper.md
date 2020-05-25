@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "/testimonials/2017/1/7/john-e-zipper.html"
+canonical-url: "/testimonials/2017/1/7/john-e-zipper"
 
 layout: testimonials
 ---
@@ -18,7 +18,7 @@ layout: testimonials
               <time class="updated" datetime="2017-01-07"></time>
             </div>
             <h1>
-              <a href="/testimonials/2017/1/7/john-e-zipper.html" rel="bookmark">John E. Zipper</a>
+              <a href="/testimonials/2017/1/7/john-e-zipper" rel="bookmark">John E. Zipper</a>
             </h1>
           </header>
           <div class="content">

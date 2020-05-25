@@ -4,7 +4,7 @@ description: "Standard Dental, Life and Disability Plan Summaries"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/even-more.html"
+canonical-url: "benefits/even-more"
 
 layout: default
 ---
@@ -109,18 +109,21 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2019/EAP%2bStandard%2bIns.pdf">Standard
+                href="/assets/documents/2020/StandardEAP2020-05-01.pdf">Standard
                 Employee Assistance Program Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/Travel%2bAssistance%2bStandard%2bIns.pdf">Standard
+                href="/assets/documents/2020/StandardTravelAssistance.pdf">Standard
                 Travel Assistance Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/Life%2bServices%2bToolkit%2bStandard%2bIns.pdf">Standard
+                href="/assets/documents/2020/StandardLifeServicesToolkit.pdf">Standard
                 Life Services Took Kit Flyer</a>
+          </li>
+          <li>
+            <a href="http://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001">Standard Life Video</a>
           </li>
         </ul>
         <h2>Cascade Employee Assistance</h2>
@@ -130,7 +133,7 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2019/Cascade%2bEAP%2bsummary.pdf">EAP
+                href="/assets/documents/2020/CascadeEAPSummary.pdf">EAP
                 Summary</a>
           </li>
         </ul>

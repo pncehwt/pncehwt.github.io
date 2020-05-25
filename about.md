@@ -4,7 +4,7 @@ description: "A message from the PNCE trustees"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "about.html"
+canonical-url: "about"
 
 layout: default
 ---
@@ -65,17 +65,17 @@ layout: default
         <ul>
           <li>
             <p>
-              Scott Wallace, P.E.<br /><em>Chairman &amp; Trustee</em>
+              Tom Jones, P.E.<br /><em>Chairman &amp; Trustee</em>
+            </p>
+          </li>
+          <li>
+            <p>
+              Scott Wallace, P.E.<br /><em>Trustee</em>
             </p>
           </li>
           <li>
             <p>
               Ralph Boirum, P.E.<br /><em>Trustee</em>
-            </p>
-          </li>
-          <li>
-            <p>
-              Kash Nikzad, P.E.<br /><em>Trustee</em>
             </p>
           </li>
         </ul>
@@ -94,7 +94,7 @@ layout: default
           </li>
           <li>
             <p>
-              Tom Jones, P.E.<br /><em>Trustee</em>
+              Ignasius Seilie, P.E.<br /><em>Trustee</em>
             </p>
           </li>
         </ul>

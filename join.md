@@ -4,7 +4,7 @@ description: "Get a quote today and see how we can serve you."
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "join.html"
+canonical-url: "join"
 
 layout: default
 ---
@@ -29,14 +29,14 @@ layout: default
       <div class="col-6 center">
         <h2>Get A Quote</h2>
         <p>Get a quote today and see how we can serve you.</p>
-        <p><a href="/broker.html" target="_blank">Contact Our
+        <p><a href="/broker" target="_blank">Contact Our
             Broker →</a></p>
       </div>
       <div class="col-6 center">
         <h2>Testimonials</h2>
         <p>Read what our current members have to say about the
           PNCE Health and Welfare Trust and how it benefits them.</p>
-        <p><a href="/testimonials.html" target="_blank">Read
+        <p><a href="/testimonials" target="_blank">Read
             The Testimonies </a>&nbsp;→</p>
       </div>
     </div>

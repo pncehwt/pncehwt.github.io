@@ -4,7 +4,7 @@ description: "Providence Medical/Rx and Optional Benefit Plan Summaries"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/medical.html"
+canonical-url: "benefits/medical"
 
 layout: default
 ---
@@ -18,27 +18,27 @@ layout: default
         <h2>{{ page.description }}</h2>
         <ul>
           <li>
-            <a href="/assets/documents/2019/Plan%2b3%2bwith%2bRx.pdf">PPO
+            <a href="/assets/documents/2020/Plan3withRxSummary.pdf">PPO
               $250 – Plan 3 with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/PNCE%2b2018%2bPlan%2b5.pdf">PPO
+            <a href="/assets/documents/2020/Plan5withRxSummary.pdf">PPO
               $500 – Plan 5 with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Plan%2b7%2bwith%2bRx.pdf">PPO
+            <a href="/assets/documents/2020/Plan7withRxSummary.pdf">PPO
               $750 – Plan 7 with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Plan%2b10%2bwith%2bRx.pdf">PPO
+            <a href="/assets/documents/2020/Plan10withRxSummary.pdf">PPO
               $1,000 – Plan 10 with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Plan%2b10%2bValue%2bwith%2bRx.pdf">PPO
+            <a href="/assets/documents/2020/Plan10-valuewithRxSummary.pdf">PPO
               $1,000 – Plan 10-Value with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Plan%2b25%2bwith%2bRx.pdf">PPO
+            <a href="/assets/documents/2020/Plan25-silverwithRxSummary.pdf">PPO
               $2,500 – Plan 25-Silver with Rx</a>
           </li>
           <li>
@@ -46,14 +46,14 @@ layout: default
               $1,500 – Plan 15 with Rx</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Alt%2bCare%2bPlus%2b(buy-up).pdf">Alt
+            <a href="/assets/documents/2020/PNCE2020-01-01PHPAltCarePlus.pdf">Alt
               Care Plus (buy-up)</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/vision%2bsummary.pdf">Vision</a>
+            <a href="/assets/documents/2020/PNCE2020-01-01PHPVisionSummary.pdf">Vision</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Domestic%2bpartner%2brider.pdf">Domestic
+            <a href="/assets/documents/2020/PNCE2020-01-01DomesticPartner.pdf">Domestic
               Partner Rider</a>
           </li>
           <li>
@@ -74,7 +74,7 @@ layout: default
             or <a href="https://www.swedishexpresscare.org/" target="_blank">https://www.swedishexpresscare.org/</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/active%2b%26%2bfit%2bgym%2bmembership%2bdiscount.pdf">Active &amp; Fit Gym
+            <a href="/assets/documents/2020/ActiveAndFit-PHP2020.pdf">Active &amp; Fit Gym
               Membership Discount</a>
           </li>
           <li>
@@ -82,21 +82,21 @@ layout: default
               Travel and ID Protection Services</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/emergency%2band%2burgent%2bcare%2bflyer.pdf">Emergency and Urgent Care Flyer</a>
+            <a href="/assets/documents/2020/EmergencyUrgentCare-PHP2020.pdf">Emergency and Urgent Care Flyer</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/Express%2bCare%2bVirtual%2bFlyer.pdf">Express Care Virtual Flyer</a>
+            <a href="/assets/documents/2020/ExpressCareVirtual-PHP2020.pdf">Express Care Virtual Flyer</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/extra%2bvalues%2band%2bdiscounts%2bfor%2bmembers.pdf">Extra Values and Discounts
+            <a href="/assets/documents/2020/MemberDiscounts-PHP2020.pdf">Extra Values and Discounts
               For Members</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/making%2bthe%2bmost%2bof%2byour%2bpharmacy%2bbenefits.pdf">Making the Most Of
+            <a href="/assets/documents/2020/MemberPharmacy-PHP2020.pdf">Making the Most Of
               Your Pharmacy Benefits</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/myProvidence.com+your+connection+to+health+and+wellness.pdf">myProvidence.com
+            <a href="/assets/documents/2020/MyProvidence-PHP2020.pdf">myProvidence.com
               Online</a>
           </li>
           <li>
@@ -111,10 +111,10 @@ layout: default
             <a href="/assets/documents/2019/services%2bon%2bthe%2bweb.pdf">Services on the Web</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/treatment%2bcost%2bcalculator.pdf">Treatment Cost Calculator</a>
+            <a href="/assets/documents/2020/TreatmentCostCalculator-PHP2020.pdf">Treatment Cost Calculator</a>
           </li>
           <li>
-            <a href="/assets/documents/2019/PNCE%2b2018-01-01%2bPHP%2bLifeBalance.pdf">LifeBalance</a>
+            <a href="/assets/documents/2020/LifeBalanceProgram-PHP2020.pdf">LifeBalance</a>
           </li>
           <li>
             <a href="https://sales.healthequity.com/providence/" target="_blank">HealthEquity Integrated FSA, HSA and

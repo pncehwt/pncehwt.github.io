@@ -29,7 +29,7 @@ layout: default
     <div class="row">
       <div class="col-3">
         <img class="thumb-image"
-          src="../../content/images/AlliianceLogo.jpg"
+          src="../../assets/images/AlliianceLogo.jpg"
           data-image-dimensions="200x200" 
           data-image-focal-point="0.5,0.5" 
           alt="Alliiance Logo"/>
@@ -45,7 +45,7 @@ layout: default
     <div class="row">
       <div class="col-3">
         <img class="thumb-image"
-          src="../../content/images/HealthAdvocateLogo.jpg"
+          src="../../assets/images/HealthAdvocateLogo.jpg"
           data-image-dimensions="200x200" 
           data-image-focal-point="0.5,0.5" 
           alt="Health Advocate Logo"/>
@@ -61,7 +61,7 @@ layout: default
     <div class="row">
       <div class="col-3">
         <img class="thumb-image"
-          src="../../content/images/Colonial_Life_logo.jpg"
+          src="../../assets/images/Colonial_Life_logo.jpg"
           data-image-dimensions="200x200" 
           data-image-focal-point="0.5,0.5" 
           alt="Colonial Life Logo"/>

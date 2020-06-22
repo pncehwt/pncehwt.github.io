@@ -17,9 +17,8 @@ layout: default
     <div class="row">
       <div class="col-12">
         <h1>{{ page.title }}</h1>
-        <a href="https://flimp.me/PNCE-Trust-2019">
-          <img class="thumb-image" src="/assets/images/DigitalPostcard.jpg" data-image-dimensions="1369x769"
-            data-image-focal-point="0.5,0.5" alt="The PNCE Trust’s digital postcard" />
+        <a href="https://flimp.me/PNCE-Trust-2020">
+          <img class="thumb-image" src="/assets/images/DigitalPostcard.jpg" alt="The PNCE Trust’s digital postcard" />
         </a>
       </div>
     </div>

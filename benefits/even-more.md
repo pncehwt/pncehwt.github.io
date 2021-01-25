@@ -109,18 +109,23 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2020/StandardEAP2020-05-01.pdf">Standard
+                href="/assets/documents/2021/StandardEAP.pdf">Standard
                 Employee Assistance Program Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2020/StandardTravelAssistance.pdf">Standard
+                href="/assets/documents/2021/TravelAssistance.pdf">Standard
                 Travel Assistance Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2020/StandardLifeServicesToolkit.pdf">Standard
+                href="/assets/documents/2021/LifeServicesToolkit.pdf">Standard
                 Life Services Took Kit Flyer</a>
+          </li>
+          <li>
+            <a
+                href="/assets/documents/2021/HealthAdvocacy.pdf">Standard
+                Health Advocacy</a>
           </li>
           <li>
             <a href="https://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001" data-type="iframe" class="lightbox">Standard Life Video</a>
@@ -133,7 +138,7 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2020/CascadeEAPSummary.pdf">EAP
+                href="/assets/documents/2021/PacificNWConsultingEngineersHealth&WelfareTrust.pdf">EAP
                 Summary</a>
           </li>
         </ul>

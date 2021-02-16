@@ -23,11 +23,11 @@ layout: default
             </p>
         </div>
     </div>
-    <!-- <div class="row">
+    <div class="row">
         <div class="col-12 text-center">
             <a href="https://pncehwt.walkertracker.com/" target="_blank" class="call-to-action">Register to Walk the PNCE PCT Challenge</a>
         </div>
-    </div> -->
+    </div>
     <hr />
     <div class="row">
         <div class="col-8">

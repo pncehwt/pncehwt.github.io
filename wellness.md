@@ -43,11 +43,9 @@ layout: default
                 <li><a href="/assets/documents/2021/PNCE_2021_Step_Challenge_Poster.pdf">Challenge Poster</a></li>
                 <!--<li><a href="/assets/documents/2020/2020PNCEWalkingChallenge-HowToRegister.pdf">How to Register Guide</a></li>-->
             </ul>
-            <!--
-            <img src="/assets/images/WellnessChallengeTrailHead.jpg" data-image-dimensions="480x480" data-image-focal-point="0.5,0.5" alt="A trail markder for the Pacific Crest Trail NO. 2000" />
+            <img src="/assets/images/WellnessChallege7NaturalWondersMap.png" data-image-dimensions="480x480" data-image-focal-point="0.5,0.5" alt="A map with pins for the Seven Natural Wonders of the World" />
             <br/>
-            <img src="/assets/images/WellnessChallengePacific-Crest-Map.jpg" data-image-dimensions="294x555" data-image-focal-point="0.5,0.5" alt="A map of the Pacific Crest Trail" />
-            -->
+            <img src="/assets/images/globe.jpg" data-image-dimensions="294x555" data-image-focal-point="0.5,0.5" alt="The Earth, the big blue marble, in space" />
         </div>
     </div>
 </div>

@@ -18,9 +18,8 @@ layout: default
         <h2>{{ page.description }}</h2>
         <ul>
           <li><a href="/assets/documents/2021/Bronze5000.pdf">Bronze $5,000</a></li>
-          <li><a href="/assets/documents/2021/Silver1500-HDHP.pdf">HDHP Silver $1,500</a></li>
-          <li><a href="/assets/documents/2021/Gold1500.pdf">Gold $1,500</a></li>
-          <li><a href="/assets/documents/2021/Gold2500.pdf">Gold $2,500</a></li>
+          <li><a href="/assets/documents/2021/Silver2500.pdf">Silver $2,500</a></li>
+          <li><a href="/assets/documents/2021/Gold1500HDHP.pdf">Gold $1,500 HDHP</a></li>
           <li><a href="/assets/documents/2021/Platinum300.pdf">Platinum $300</a></li>
           <li><a href="/assets/documents/2021/Platinum500.pdf">Platinum $500</a></li>
           <li><a href="/assets/documents/2021/Platinum1000.pdf">Platinum $1,000</a></li>

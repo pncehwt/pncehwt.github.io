@@ -25,7 +25,7 @@ layout: default
     </div>
     <div class="row">
         <div class="col-12 text-center">
-            <a href="https://pncehwt.walkertracker.com/" target="_blank" class="call-to-action">Register to Walk the PNCE PCT Challenge</a>
+            <a href="https://pncehwt.walkertracker.com/" target="_blank" class="call-to-action">Register for the PNCE step Challenge</a>
         </div>
     </div>
     <hr />

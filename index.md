@@ -89,15 +89,15 @@ layout: default
           <a href="/join">Find Out How →</a>
         </p>
       </div>
+    </div>
       <div class="row">
         <div class="col-12 center">
           <p class="center">
-            <a href="https://flimp.live/PNCE-2021-Our-Mission" data-type="iframe" class="lightbox">Our Mission →</a>
+            <a href="https://flimp.live/bn6wd7zvaup" data-type="iframe" class="lightbox">Our Mission →</a>
           </p>
         </div>
       </div>
     </div>
-  </div>
   <script src="/assets/javascript/tobii.min.js"></script>
   <script type="text/javascript">
     const tobii = new Tobii()

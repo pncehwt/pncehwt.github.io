@@ -17,19 +17,20 @@ layout: default
         <h1>{{ page.title }}</h1>
         <h2>{{ page.description }}</h2>
         <ul>
-          <li><a href="/assets/documents/2021/Bronze5000.pdf">Bronze $5,000</a></li>
-          <li><a href="/assets/documents/2021/Silver2500.pdf">Silver $2,500</a></li>
-          <li><a href="/assets/documents/2021/Gold1500HDHP.pdf">Gold $1,500 HDHP</a></li>
-          <li><a href="/assets/documents/2021/Platinum300.pdf">Platinum $300</a></li>
-          <li><a href="/assets/documents/2021/Platinum500.pdf">Platinum $500</a></li>
-          <li><a href="/assets/documents/2021/Platinum1000.pdf">Platinum $1,000</a></li>
-          <li><a href="/assets/documents/2021/PNCEDomParPlus.pdf">Domestic Partner Rier</a></li>
-          <li><a href="/assets/documents/2021/PNCECHAPlus15-1500.pdf">Alt Care Plus (buy-up)</a></li>
-          <li><a href="/assets/documents/2021/OR2021LGVisionPremiumO+P.pdf">Vision Premium</a></li>
+          <li><a href="/assets/documents/2022/Medical/Bronze5000.pdf">Bronze $5,000</a></li>
+          <li><a href="/assets/documents/2022/Medical/Silver2500.pdf">Silver $2,500</a></li>
+          <li><a href="/assets/documents/2022/Medical/Gold1500.pdf">Gold $1,500</a></li>
+          <li><a href="/assets/documents/2022/Medical/Gold1500HDHP.pdf">Gold $1,500 HSA Qualified</a></li>
+          <li><a href="/assets/documents/2022/Medical/Platinum300.pdf">Platinum $300</a></li>
+          <li><a href="/assets/documents/2022/Medical/Platinum500.pdf">Platinum $500</a></li>
+          <li><a href="/assets/documents/2022/Medical/Platinum1000.pdf">Platinum $1,000</a></li>
+          <li><a href="/assets/documents/2022/Medical/PNCEDomParPlus.pdf">Domestic Partner Plus</a></li>
+          <li><a href="/assets/documents/2022/Medical/PNCERX15-20-30-60-200.pdf">Prescription Drug Plan</a></li>
+          <li><a href="/assets/documents/2022/Medical/ORLGVisionPremiumO+P.pdf">Vision Premium</a></li>
         </ul>
         <h3>Value added resources, Links, Forms and Information</h3>
         <ul>
-          <li><a href="/assets/documents/2021/Providence2020-11-12ResourceGuideEnrollmentKit.pdf">Enrollment Kit</a>
+          <li><a href="/assets/documents/2022/Medical/PNCE2022PHPMemberResourceGuide.pdf">Enrollment Kit</a>
           </li>
           <li>
             <a href="https://myprovidence.healthtrioconnect.com/"

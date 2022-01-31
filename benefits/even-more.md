@@ -16,49 +16,53 @@ layout: default
       <div class="col-10">
         <h1>{{ page.title }}</h1>
         <h2>{{ page.description }}</h2>
+        <h3>Dental</h3>
         <ul>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bDental%2bPlan%2bD-2500.pdf">Dental $2,500</a>
+                href="/assets/documents/2022/More/Dental/PNCE2022Dental2500.pdf">Dental $2,500</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bDental%2bPlan%2bD-2500%2bwith%2bCH%2bOrtho.pdf">Dental
+                href="/assets/documents/2022/More/Dental/PNCE2022Dental2500with1500childortho.pdf">Dental
                 $2,500 with Child Ortho</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bDental%2bPlan%2bD-1500.pdf">Dental
+                href="/assets/documents/2022/More/Dental/PNCE2022Dental1500.pdf">Dental
                 $1,500</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bDental%2bPlan%2bD-1500%2bwith%2bCH%2bOrtho.pdf">Dental
+                href="/assets/documents/2022/More/Dental/PNCE2022Dental1500withchild1500ortho.pdf">Dental
                 $1,500 with Child Ortho</a>
           </li>
+        </ul>
+        <h3>Basic Life</h3>
+        <ul>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bBasic%2bLife%2b50k.pdf">Basic
+                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-50k.pdf">Basic
                 Life/AD&amp;D $50,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bBasic%2bLife%2b75k.pdf">Basic
+                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-75k.pdf">Basic
                 Life/AD&amp;D $75,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bBasic%2bLife%2b100k.pdf">Basic
+                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-100k.pdf">Basic
                 Life/AD&amp;D $100,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bBasic%2bLife%2b150k.pdf">Basic
+                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-150k.pdf">Basic
                 Life/AD&amp;D $150,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bBasic%2bLife%2b200k.pdf">Basic
+                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-200k.pdf">Basic
                 Life/AD&amp;D $200,000</a>
           </li>
           <li>
@@ -71,34 +75,40 @@ layout: default
                 href="/assets/documents/2019/PNCE%2b2017-01-01%2bAdditional%2bLife%2b51%2bPlus%2bEmployees.pdf">Additional
                 Life/AD&amp;D (employer with over 50 employees)</a>
           </li>
+        </ul>
+        <h3>Short Term Disability</h3>
+        <ul>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bSTD%2bPlan%2bA%2bNon%2bOcc.pdf">Short
+                href="/assets/documents/2022/More/STD/PNCE2022STD-B-1k.pdf">Short
                 Term Disability $1,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2016-01-01%2bSTD%2bPlan%2bA%2bPolicy%2bB%2b24%2bHour.pdf">Short
+                href="/assets/documents/2022/More/STD/PNCE2022STD-B-1kOwner.pdf">Short
                 Term Disability $1,000 - Owners</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bSTD%2bPlan%2bA%2bNon%2bOcc.pdf">Short
+                href="/assets/documents/2022/More/STD/PNCE2022STD-C-2500.pdf">Short
                 Term Disability $2,500</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bSTD%2bPlan%2bB%2bPolicy%2bB%2b24%2bHour.pdf">Short
+                href="/assets/documents/2022/More/STD/PNCE2022STD-C-2500owner.pdf">Short
                 Term Disability $2,500 - Owners</a>
           </li>
+        </ul>
+        <h3>Long Term Disability</h3>
+        <ul>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bLTD%2bPlan%2bA%2b5k.pdf">Long
+                href="/assets/documents/2022/More/LTD/PNCE2022LTD-5k.pdf">Long
                 Term Disability $5,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bLTD%2bPlan%2bB%2b10k.pdf">Long
+                href="/assets/documents/2022/More/LTD/PNCE2022LTD-10k.pdf">Long
                 Term Disability $10,000</a>
           </li>
         </ul>
@@ -109,22 +119,27 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2021/StandardEAP.pdf">Standard
+                href="/assets/documents/2022/More/StandardEAP.pdf">Standard
                 Employee Assistance Program Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2021/TravelAssistance.pdf">Standard
+                href="/assets/documents/2022/More/TravelAssistance.pdf">Standard
                 Travel Assistance Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2021/LifeServicesToolkit.pdf">Standard
-                Life Services Took Kit Flyer</a>
+                href="/assets/documents/2022/More/LifeServicesToolkitEmployees.pdf">Standard
+                Life Services Took Kit Flyer (Employees)</a>
+          </li>
+                    <li>
+            <a
+                href="/assets/documents/2022/More/LifeServicesToolkitBeneficiaries.pdf">Standard
+                Life Services Took Kit Flyer (Beneficiaries)</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2021/HealthAdvocacy.pdf">Standard
+                href="/assets/documents/2022/More/HealthAdvocacy.pdf">Standard
                 Health Advocacy</a>
           </li>
           <li>
@@ -138,7 +153,7 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2021/PacificNWConsultingEngineersHealth&WelfareTrust.pdf">EAP
+                href="/assets/documents/2022/CascadeEAP/PNCE2022CascadeEAPSummary.pdf">EAP
                 Summary</a>
           </li>
         </ul>

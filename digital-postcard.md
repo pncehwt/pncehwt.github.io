@@ -1,5 +1,5 @@
 ---
-title: "PNCE's Digital Postcard"
+title: "PNCE's Digital Postcards"
 description: "Digital Postcard with videos and information about programs that we have available."
 image: ""
 image-height: ""
@@ -17,8 +17,22 @@ layout: default
     <div class="row">
       <div class="col-12">
         <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-4">
         <a href="https://flimp.me/PNCE-Trust-2020">
           <img class="thumb-image" src="/assets/images/DigitalPostcard.jpg" alt="The PNCE Trust’s digital postcard" />
+        </a>
+      </div>
+      <div class="col-4">
+        <a href="https://flimp.live/lkw2fnbnt">
+          <img class="thumb-image" src="/assets/images/DigitalPostcard-TotalWellBeing.jpg" alt="The PNCE Trust’s digital postcard Total Well Being" />
+        </a>
+      </div>
+      <div class="col-4">
+        <a href="https://flimp.live/ffdi4nx2s">
+          <img class="thumb-image" src="/assets/images/DigitalPostcard-NavigationOfCare.jpg" alt="The PNCE Trust’s digital postcard for Navigation of Care" />
         </a>
       </div>
     </div>

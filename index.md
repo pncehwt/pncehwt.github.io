@@ -93,7 +93,7 @@ layout: default
       <div class="row">
         <div class="col-12 center">
           <p class="center">
-            <a href="https://flimp.live/bn6wd7zvaup" data-type="iframe" class="lightbox">Our Mission →</a>
+            <a href="https://flimp.live/PNCE-2022-Our-Mission" data-type="iframe" class="lightbox">Our Mission →</a>
           </p>
         </div>
       </div>

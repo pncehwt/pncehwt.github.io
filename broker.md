@@ -22,11 +22,11 @@ layout: default
     <div class="row">
       <div class="col-12">
         <h2>For A Quote</h2>
-        <p>If you would like a quote, please contact:<br>Woodruff Sawyer<br>Mary Green | 503.416.7755 | mgreen@woodruffsawyer.com</p>
+        <p>If you would like a quote, please contact:<br>Woodruff Sawyer<br>Luke Slater | 503.416.6832 | lslater@woodruffsawyer.com</p>
         <h3>ACEC Oregon:</h3>
         <p><a href="http://www.acecoregon.org/benefits_health_insurance" target="_blank">http://www.acecoregon.org/benefits_health_insurance</a></p>
         <h3>ACEC Washington:</h3>
-        <p><a href="http://www.acec-wa.org/membership/health-insurance" target="_blank">http://www.acec-wa.org/membership/health-insuranc</a> </p>
+        <p><a href="http://www.acec-wa.org/membership/health-insurance" target="_blank">http://www.acec-wa.org/membership/health-insurance</a> </p>
       </div>
     </div>
   </div>

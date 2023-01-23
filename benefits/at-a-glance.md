@@ -12,9 +12,9 @@ layout: default
   <div class="banner banner-lg">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
-      <img src="/assets/images/PiggyBankStehoscope.jpg" 
-        data-image-dimensions="1135x1030"
-        data-image-focal-point="0.97,0.54" alt="blueprints850x395.jpg" />
+      <img src="/assets/images/2023-SickTeddyBear-Medical-156056056-1500x996.jpg" 
+        data-image-dimensions="1500x996"
+        data-image-focal-point="0.97,0.54" alt="A teddy bear with a bandanged head, thermometer tucked into a bed" />
     </figure>
   </div>
   <div class="container main-body">
@@ -29,28 +29,29 @@ layout: default
           on the first day of the month following 30 days of membership in either Council.</p>
           <div class="row">
             <div class="col-4">
-              <img src="/assets/images/MedicalPlans225x225.jpg" data-image-dimensions="441x341" data-image-focal-point="0.5,0.5" alt="Medical Plans" />
+              <img src="/assets/images/2023-Medical-FindOutMore-76946636-800x1160.jpg" 
+              data-image-dimensions="800x1160" data-image-focal-point="0.5,0.5" alt="Someone using a stethescope on another person's arm" />
             </div>
             <div class="col-8">
               <h2>FIND OUT MORE!</h2>
               <ul>
                 <li>
-                  <p><a href="/assets/documents/2022/Benefits/PNCE2022benefitsguide.pdf">2022 benefits guide</a></p>
+                  <p><a href="/assets/documents/2023/benefits/PNCE2023benefitsguide.pdf">2023 benefits guide</a></p>
                 </li>
                               <li>
-                  <p><a href="/assets/documents/2022/PNCE2022HSAallyouneedtoknow.pdf">HSA - All you need to know</a></p>
+                  <p><a href="/assets/documents/2023/benefits/PNCE2023HSAallyouneedtoknow.pdf">HSA - All you need to know</a></p>
                 </li>
               </ul>
             </div>
           </div>
           <div class="row">
             <div class="col-4">
-              <img src="/assets/images/handshake225x225.jpg" data-image-dimensions="225x225" data-image-focal-point="0.5,0.5" alt="handshake" />
+              <img src="/assets/images/2023-Handshaking-637367232-1000x667.jpg" data-image-dimensions="1000x667" data-image-focal-point="0.5,0.5" alt="Two people wearing business attire shaking hands" />
             </div>
             <div class="col-8">
               <h2>Administrative Ease</h2>
               <h3>PNCE DEDICATED TRUST ADMINISTRATOR</h3>
-              <p><em>Administered by Christine Boirum as the trust administrator for
+              <p><em>Administered by RGA/TailorWell as the trust administrator for
                   Engineers Trust Admin</em></p>
               <ul data-rte-list="default">
                 <li>

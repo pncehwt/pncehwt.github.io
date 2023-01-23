@@ -12,10 +12,10 @@ layout: default
 <div class="banner banner-lg">
     <div class="color-overlay"></div>
     <figure id="thumbnail">
-      <img src="/assets/images/pnce_fruit_image.jpg" 
-        data-image-dimensions="1135x1030"
+      <img src="/assets/images/2023-HomePageBanner.jpg" 
+        data-image-dimensions="2508x1672"
         data-image-focal-point="0.97,0.54" 
-        alt="pnce_fruit_image.jpg" />
+        alt="Artistic photograph looking straight up from the street view to the top of three buildings" />
     </figure>
     <div class="description">
       <p><em>For Engineers By Engineers</em></p>
@@ -47,11 +47,11 @@ layout: default
           <div>
             <img 
                 class="thumb-image" 
-                src="/assets/images/PlasticHeartWithStethoscop451x300.jpg"
-                data-src="/assets/images/PlasticHeartWithStethoscop451x300.jpg" 
-                data-image-dimensions="500x300"
+                src="/assets/images/2023-Medical-95599901-1000x667.jpg"
+                data-src="/assets/images/2023-Medical-95599901-1000x667.jpg" 
+                data-image-dimensions="1000x667"
                 data-image-focal-point="0.5,0.5" 
-                alt="" />
+                alt="A sethescope laying partially coiled on top of an open book" />
           </div>
         </a>
         <h2 class="center">
@@ -71,11 +71,11 @@ layout: default
           <div>
             <img 
                 class="thumb-image" 
-                src="/assets/images/hands-stacked451x300.jpg"
-                data-src="/assets/images/hands-stacked451x300.jpg" 
+                src="/assets/images/2023-PeopleAroundATable-625741228-1000x667.jpg"
+                data-src="/assets/images/2023-PeopleAroundATable-625741228-1000x667.jpg" 
                 data-image-dimensions="500x300"
                 data-image-focal-point="0.5,0.5" 
-                alt="" />
+                alt="A diverse group of people sitting around a table looking over paperwork" />
           </div>
         </a>
         <h2 class="center">
@@ -90,13 +90,6 @@ layout: default
         </p>
       </div>
     </div>
-      <div class="row">
-        <div class="col-12 center">
-          <p class="center">
-            <a href="https://flimp.live/PNCE-2022-Our-Mission" data-type="iframe" class="lightbox">Our Mission →</a>
-          </p>
-        </div>
-      </div>
     </div>
   <script src="/assets/javascript/tobii.min.js"></script>
   <script type="text/javascript">

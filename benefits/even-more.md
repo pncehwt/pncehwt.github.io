@@ -67,13 +67,8 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bAdditional%2bLife.pdf">Additional
-                Life/AD&amp;D (employers with under 50 employees)</a>
-          </li>
-          <li>
-            <a
-                href="/assets/documents/2019/PNCE%2b2017-01-01%2bAdditional%2bLife%2b51%2bPlus%2bEmployees.pdf">Additional
-                Life/AD&amp;D (employer with over 50 employees)</a>
+                href="/assets/documents/2023/medical/evenmore/PNCE-2023VoluntaryLife.pdf">Additional
+                Life/AD&amp;D</a>
           </li>
         </ul>
         <h3>Short Term Disability</h3>
@@ -146,16 +141,15 @@ layout: default
             <a href="https://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001" data-type="iframe" class="lightbox">Standard Life Video</a>
           </li>
         </ul>
-        <h2>Cascade Employee Assistance</h2>
+        <h2>Canopy Employee Assistance</h2>
         <ul>
           <li>
-            <a href="http://www.cascadecenters.com/" target="_blank">www.cascadecenters.com</a>
+            <a href="http://www.canopywell.com/" target="_blank">www.canopywell.com</a>
           </li>
-          <li>
-            <a
-                href="/assets/documents/2022/CascadeEAP/PNCE2022CascadeEAPSummary.pdf">EAP
-                Summary</a>
-          </li>
+          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyEAPSummary.pdf">EAP Summary</a></li>
+          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyMentalHealthAwareness.pdf">Mental Health Awareness Document</a></li>
+          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyPetParentingSupport.pdf">Canopy Pet Parenting Support</a></li>
+          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyResourcesforLife.pdf">Canopy Resources for Life</a></li>
         </ul>
         <h2>WELLTHY CONCIERGE CARE COORDINATION</h2>
         <ul>
@@ -164,13 +158,16 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2019/Wellthy%2bsummary.pdf">Wellthy
+                href="/assets/documents/2023/medical/evenmore/2023-WellthyBenefitSummary.pdf">Wellthy
                 Summary</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2019/Wellthy%2bemployee%2bFAQ.pdf">Wellthy
-                FAQ</a>
+                href="/assets/documents/2023/medical/evenmore/2023-Wellthy1-page flyer.pdf">Wellthy 1-Page Flyer</a>
+          </li>
+          <li>
+            <a
+                href="/assets/documents/2023/medical/evenmore/2023-WellthyGettingStarted.pdf">Wellthy Getting Started</a>
           </li>
         </ul>
       </div>

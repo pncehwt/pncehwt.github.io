@@ -13,10 +13,10 @@ layout: default
     <div class="color-overlay"></div>
     <figure id="thumbnail">
       <img 
-        src="/assets/images/blueprints850x395.jpg"
-        data-image-dimensions="1135x1030"
+        src="/assets/images/2023-Technology-570158905-1000x668.jpg"
+        data-image-dimensions="1000x668"
         data-image-focal-point="0.97,0.54" 
-        alt="blueprints850x395.jpg" />
+        alt="Photo of a reflective computer screen showing computer coding" />
     </figure>
     <div class="description">
       <p><em>For Engineers By Engineers</em></p>

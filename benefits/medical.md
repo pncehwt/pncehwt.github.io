@@ -24,9 +24,9 @@ layout: default
           <li><a href="/assets/documents/2024/medical/Platinum350.pdf">Platinum $350</a></li>
           <li><a href="/assets/documents/2024/medical/Platinum550.pdf">Platinum $550</a></li>
           <li><a href="/assets/documents/2024/medical/Platinum1200.pdf">Platinum $1,200</a></li>
-          <li><a href="/assets/documents/2024/Medical/PNCEDomParPlus.pdf">Domestic Partner Plus</a></li>
+          <li><a href="/assets/documents/2024/medical/PNCEDomParPlus.pdf">Domestic Partner Plus</a></li>
           <li><a href="/assets/documents/2024/medical/PNCERXSummary.pdf">Prescription Drug Plan</a></li>
-          <li><a href="/assets/documents/2022/Medical/ORLGVisionPremium.pdf">Vision Premium</a></li>
+          <li><a href="/assets/documents/2022/medical/ORLGVisionPremium.pdf">Vision Premium</a></li>
         </ul>
         <h3>Value added resources, Links, Forms and Information</h3>
         <ul>

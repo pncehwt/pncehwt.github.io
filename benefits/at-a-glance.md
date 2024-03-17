@@ -36,10 +36,10 @@ layout: default
               <h2>FIND OUT MORE!</h2>
               <ul>
                 <li>
-                  <p><a href="/assets/documents/2023/benefits/PNCE2023benefitsguide.pdf">2023 benefits guide</a></p>
+                  <p><a href="/assets/documents/2024/benefits/PNCE2024benefitsguide.pdf">2024 benefits guide</a></p>
                 </li>
                               <li>
-                  <p><a href="/assets/documents/2023/benefits/PNCE2023HSAallyouneedtoknow.pdf">HSA - All you need to know</a></p>
+                  <p><a href="/assets/documents/2024/benefits/PNCE-2024-HSA-guide.pdf">HSA - All you need to know</a></p>
                 </li>
               </ul>
             </div>

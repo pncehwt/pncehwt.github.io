@@ -94,13 +94,11 @@ layout: default
         <ul>
           <li>
             <a
-                href="/assets/documents/2024/more/LTD/PNCE2024LTD-5k.pdf">Long
-                Term Disability $5,000</a>
+                href="/assets/documents/2024/more/LTD/PNCE2024LTD-5k.pdf">Long Term Disability $5,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2024/more/LTD/PNCE2024LTD-10k.pdf">Long
-                Term Disability $10,000</a>
+                href="/assets/documents/2024/more/LTD/PNCE2024LTD-10k.pdf">Long Term Disability $10,000</a>
           </li>
         </ul>
         <h3>Standard Links, Forms and Information</h3>

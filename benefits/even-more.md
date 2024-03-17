@@ -20,49 +20,45 @@ layout: default
         <ul>
           <li>
             <a
-                href="/assets/documents/2022/More/Dental/PNCE2022Dental2500.pdf">Dental $2,500</a>
+                href="/assets/documents/2024/more/dental/PNCE2024Dental2500.pdf">Dental $2,500</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/Dental/PNCE2022Dental2500with1500childortho.pdf">Dental
-                $2,500 with Child Ortho</a>
+                href="/assets/documents/2024/more/dental/PNCE2024Dental2500with1500childortho.pdf">Dental $2,500 with Child Ortho</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/Dental/PNCE2022Dental1500.pdf">Dental
-                $1,500</a>
+                href="/assets/documents/2024/more/dental/PNCE2024Dental1500.pdf">Dental $1,500</a>
           </li>
           <li>
-            <a
-                href="/assets/documents/2022/More/Dental/PNCE2022Dental1500withchild1500ortho.pdf">Dental
-                $1,500 with Child Ortho</a>
+            <a href="/assets/documents/2024/more/dental/PNCE2024Dental1500withchild1500ortho.pdf">Dental $1,500 with Child Ortho</a>
           </li>
         </ul>
         <h3>Basic Life</h3>
         <ul>
           <li>
             <a
-                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-50k.pdf">Basic
+                href="/assets/documents/2024/more/basiclife/PNCE2024BasicLife-50k.pdf">Basic
                 Life/AD&amp;D $50,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-75k.pdf">Basic
+                href="/assets/documents/2024/more/basiclife/PNCE2024BasicLife-75k.pdf">Basic
                 Life/AD&amp;D $75,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-100k.pdf">Basic
+                href="/assets/documents/2024/more/basiclife/PNCE2024BasicLife-100k.pdf">Basic
                 Life/AD&amp;D $100,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-150k.pdf">Basic
+                href="/assets/documents/2024/more/basiclife/PNCE2024BasicLife-150k.pdf">Basic
                 Life/AD&amp;D $150,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/BasicLife/PNCE2022BasicLife-200k.pdf">Basic
+                href="/assets/documents/2024/more/basiclife/PNCE2024BasicLife-200k.pdf">Basic
                 Life/AD&amp;D $200,000</a>
           </li>
           <li>
@@ -75,22 +71,22 @@ layout: default
         <ul>
           <li>
             <a
-                href="/assets/documents/2022/More/STD/PNCE2022STD-B-1k.pdf">Short
+                href="/assets/documents/2024/more/STD/PNCE2024STD-B-1k.pdf">Short
                 Term Disability $1,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/STD/PNCE2022STD-B-1kOwner.pdf">Short
+                href="/assets/documents/2024/more/STD/PNCE2024STD-B-1kOwner.pdf">Short
                 Term Disability $1,000 - Owners</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/STD/PNCE2022STD-C-2500.pdf">Short
+                href="/assets/documents/2024/more/STD/PNCE2024STD-C-2500.pdf">Short
                 Term Disability $2,500</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/STD/PNCE2022STD-C-2500owner.pdf">Short
+                href="/assets/documents/2024/more/STD/PNCE2024STD-C-2500owner.pdf">Short
                 Term Disability $2,500 - Owners</a>
           </li>
         </ul>
@@ -98,12 +94,12 @@ layout: default
         <ul>
           <li>
             <a
-                href="/assets/documents/2022/More/LTD/PNCE2022LTD-5k.pdf">Long
+                href="/assets/documents/2024/more/LTD/PNCE2024LTD-5k.pdf">Long
                 Term Disability $5,000</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/LTD/PNCE2022LTD-10k.pdf">Long
+                href="/assets/documents/2024/more/LTD/PNCE2024LTD-10k.pdf">Long
                 Term Disability $10,000</a>
           </li>
         </ul>
@@ -114,28 +110,23 @@ layout: default
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/StandardEAP.pdf">Standard
-                Employee Assistance Program Flyer</a>
+                href="/assets/documents/2024/more/StandardEAP.pdf">Standard Employee Assistance Program Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/TravelAssistance.pdf">Standard
-                Travel Assistance Flyer</a>
+                href="/assets/documents/2024/more/TravelAssistance.pdf">Standard Travel Assistance Flyer</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/LifeServicesToolkitEmployees.pdf">Standard
-                Life Services Took Kit Flyer (Employees)</a>
+                href="/assets/documents/2024/more/LifeServicesToolkitEmployees.pdf">Standard Life Services Tool Kit Flyer (Employees)</a>
           </li>
                     <li>
             <a
-                href="/assets/documents/2022/More/LifeServicesToolkitBeneficiaries.pdf">Standard
-                Life Services Took Kit Flyer (Beneficiaries)</a>
+                href="/assets/documents/2024/more/LifeServicesToolkitBeneficiaries.pdf">Standard Life Services Tool Kit Flyer (Beneficiaries)</a>
           </li>
           <li>
             <a
-                href="/assets/documents/2022/More/HealthAdvocacy.pdf">Standard
-                Health Advocacy</a>
+                href="/assets/documents/2024/more/HealthAdvocacy.pdf">Standard Health Advocacy</a>
           </li>
           <li>
             <a href="https://players.brightcove.net/1079186452001/41lsPukaRe_default/index.html?videoId=4783478886001" data-type="iframe" class="lightbox">Standard Life Video</a>
@@ -143,13 +134,10 @@ layout: default
         </ul>
         <h2>Canopy Employee Assistance</h2>
         <ul>
-          <li>
-            <a href="http://www.canopywell.com/" target="_blank">www.canopywell.com</a>
-          </li>
-          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyEAPSummary.pdf">EAP Summary</a></li>
-          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyMentalHealthAwareness.pdf">Mental Health Awareness Document</a></li>
-          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyPetParentingSupport.pdf">Canopy Pet Parenting Support</a></li>
-          <li><a href="/assets/documents/2023/medical/evenmore/2023CanopyResourcesforLife.pdf">Canopy Resources for Life</a></li>
+          <li><a href="http://www.canopywell.com/" target="_blank">www.canopywell.com</a></li>
+          <li><a href="/assets/documents/2024/medical/evenmore/2024CanopyEAPSummary.pdf">EAP Summary</a></li>
+          <li><a href="/assets/documents/2024/medical/evenmore/2024CanopyMentalHealthAwareness.pdf">Mental Health Awareness Document</a></li>
+          <li><a href="/assets/documents/2024/medical/evenmore/2024CanopyLifeBalanceFlyer.pdf">Canopy Life Balance Flyer</a></li>
         </ul>
         <h2>WELLTHY CONCIERGE CARE COORDINATION</h2>
         <ul>

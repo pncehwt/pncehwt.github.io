@@ -51,7 +51,7 @@ layout: default
             <div class="col-8">
               <h2>Administrative Ease</h2>
               <h3>PNCE DEDICATED TRUST ADMINISTRATOR</h3>
-              <p><em>Administered by RGA/TailorWell as the trust administrator for
+              <p><em>Administered by TailorWell as the trust administrator for
                   Engineers Trust Admin</em></p>
               <ul data-rte-list="default">
                 <li>

@@ -65,7 +65,7 @@ layout: default
         <ul>
           <li>
             <p>
-              Tom Jones, P.E.<br /><em>Chairman &amp; Trustee</em>
+              Gerry Heslin P.E.<br /><em>Chair &amp; Trustee</em>
             </p>
           </li>
           <li>
@@ -89,7 +89,7 @@ layout: default
           </li>
           <li>
             <p>
-              Gerry Heslin P.E.<br /><em>Trustee</em>
+              Paul Brienen, P.E<br /><em>Trustee</em>
             </p>
           </li>
           <li>

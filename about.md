@@ -65,12 +65,12 @@ layout: default
         <ul>
           <li>
             <p>
-              Gerry Heslin P.E.<br /><em>Chair &amp; Trustee</em>
+              Scott Wallace, P.E.<br /><em>Chair &amp; Trustee</em>
             </p>
           </li>
           <li>
             <p>
-              Scott Wallace, P.E.<br /><em>Trustee</em>
+              Gerry Heslin, P.E.<br /><em>Trustee</em>
             </p>
           </li>
           <li>
@@ -84,7 +84,7 @@ layout: default
         <ul>
           <li>
             <p>
-              Erik Peterson, P.E.<br /><em>Trustee</em>
+              Bill Sandbo, P.E.<br /><em>Trustee</em>
             </p>
           </li>
           <li>

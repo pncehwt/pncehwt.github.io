@@ -17,23 +17,26 @@ layout: default
         <h1>{{ page.title }}</h1>
         <h2>{{ page.description }}</h2>
         <ul>
-          <li><a href="/assets/documents/2024/medical/Bronze5000.pdf">Bronze $5,000</a></li>
-          <li><a href="/assets/documents/2024/medical/Silver3000.pdf">Silver $3,000</a></li>
-          <li><a href="/assets/documents/2024/medical/Gold1600.pdf">Gold $1,600</a></li>
-          <li><a href="/assets/documents/2024/medical/Gold2000HDHP.pdf">Gold $2,000 HSA Qualified</a></li>
-          <li><a href="/assets/documents/2024/medical/Platinum350.pdf">Platinum $350</a></li>
-          <li><a href="/assets/documents/2024/medical/Platinum550.pdf">Platinum $550</a></li>
-          <li><a href="/assets/documents/2024/medical/Platinum1200.pdf">Platinum $1,200</a></li>
-          <li><a href="/assets/documents/2024/medical/PNCEDomParPlus.pdf">Domestic Partner Plus</a></li>
-          <li><a href="/assets/documents/2024/medical/PNCERXSummary.pdf">Prescription Drug Plan</a></li>
-          <li><a href="/assets/documents/2022/Medical/ORLGVisionPremiumO+P.pdf">Vision Premium</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Bronze-5000-Summary.pdf">Bronze $5,000</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Silver-3000-Summary.pdf">Silver $3,000</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Gold-1600-Summary.pdf">Gold $1,600</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Gold-HSA-2000-Summary.pdf">Gold $2,000 HSA Qualified</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Platinum-350-Summary.pdf">Platinum $350</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Platinum-550-Summary.pdf">Platinum $550</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Platinum-1200-Summary.pdf">Platinum $1,200</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-LG-Domestic-Partner-Plus.pdf">Domestic Partner Plus</a></li>
+          <li><a href="assets/documents/2025/medical/PNCE-2025-01-01-Rx-Summary-(All-Plans-Except-HSA).pdf">Prescription Drug Plan</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-Vision-Premium.pdf">Vision Premium</a></li>
         </ul>
         <h3>Value added resources, Links, Forms and Information</h3>
         <ul>
-          <li><a href="/assets/documents/2024/medical/PNCE2024PHPMemberResourceGuide.pdf">Enrollment Kit</a></li>
-          <li><a href="/assets/documents/2024/medical/PHP23-012TalkSpacer.pdf">Talk Space</a></li>
-          <li><a href="/assets/documents/2024/medical/VSPMemberIdentification.pdf">VSP Member Identification</a></li>
-          <li><a href="/assets/documents/2024/medical/CignaIDCardFlyer_v2.pdf">Providence Network - Outside of OR/SW WA</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-Member-Resource-Guide-Compressed.pdf">Enrollment Kit</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-Behavioral-Health-Suite-of-Services-Flyer.pdf">Behavioral Health Suite of Services Flyer</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-Care-Options-Flyer.pdf">Care Options Flyer</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-LifeBalance-Welcome-Flyer.pdf">LifeBalance Welcome Flyer</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-myProvidence-Flyer.pdf">myProvidence Flyer</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-OnePassSelect_PostLaunch_Flyer.pdf">One Pass Select Flyer</a></li>
+          <li><a href="assets/documents/2025/medical/2025-PHP-Pharmacy-Resources-Flyer.pdf">Pharmacy Resources Flyer</a></li>          
           <li>
             <a href="https://myprovidence.healthtrioconnect.com/" target="_blank">https://myprovidence.healthtrioconnect.com</a>
             or <a href="https://healthplans.providence.org/members/" target="_blank">https://healthplans.providence.org/members/</a>

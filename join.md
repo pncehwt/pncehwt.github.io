@@ -4,7 +4,7 @@ description: "Get a quote today and see how we can serve you."
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "join"
+canonical-url: "/join"
 
 layout: default
 ---

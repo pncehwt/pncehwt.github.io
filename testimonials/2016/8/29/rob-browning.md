@@ -20,7 +20,7 @@ layout: testimonials
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/rob-browning" rel="bookmark">Rob Browning</a>
+              <a href="/testimonials/2016/8/29/rob-browning" rel="bookmark">Rob Browning</a>
             </h1>
           </header>
           <div class="content">

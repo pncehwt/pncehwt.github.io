@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/at-a-glance"
+canonical-url: "/benefits/at-a-glance"
 
 layout: default
 ---

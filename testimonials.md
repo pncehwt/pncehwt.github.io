@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "testimonials"
+canonical-url: "/testimonials"
 
 layout: default
 ---

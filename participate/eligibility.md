@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "participate/eligibility"
+canonical-url: "/participate/eligibility"
 
 layout: default
 ---

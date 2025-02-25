@@ -4,7 +4,7 @@ description: "Information for current and prospective member engineering firms i
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "index"
+canonical-url: "/"
 
 layout: default
 ---
@@ -67,7 +67,7 @@ layout: default
         </p>
       </div>
       <div class="col-6 center">
-        <a href="/benefits/join">
+        <a href="/join">
           <div>
             <img 
                 class="thumb-image" 

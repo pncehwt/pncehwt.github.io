@@ -4,7 +4,7 @@ description: "A message from the PNCE trustees"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "about"
+canonical-url: "/about"
 
 layout: default
 ---

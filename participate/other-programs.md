@@ -4,7 +4,7 @@ description: ""
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "participate/other-programs"
+canonical-url: "/participate/other-programs"
 
 layout: default
 ---

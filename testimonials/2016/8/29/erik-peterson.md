@@ -18,7 +18,7 @@ layout: testimonials
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/erik-peterson" rel="bookmark">Erik Peterson</a>
+              <a href="/testimonials/2016/8/29/erik-peterson" rel="bookmark">Erik Peterson</a>
             </h1>
           </header>
           <div class="content">

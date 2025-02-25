@@ -4,7 +4,7 @@ description: "Standard Dental, Life and Disability Plan Summaries"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/even-more"
+canonical-url: "/benefits/even-more"
 
 layout: default
 ---

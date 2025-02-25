@@ -4,7 +4,7 @@ description: "Providence Medical/Rx and Optional Benefit Plan Summaries"
 image: ""
 image-height: ""
 image-width: ""
-canonical-url: "benefits/medical"
+canonical-url: "/benefits/medical"
 
 layout: default
 ---

@@ -19,7 +19,7 @@ layout: testimonials
               <time class="updated" datetime="2016-09-11"></time>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/nancy-komola" rel="bookmark">Nancy Komola</a>
+              <a href="/testimonials/2016/8/29/nancy-komola" rel="bookmark">Nancy Komola</a>
             </h1>
           </header>
           <div class="content">

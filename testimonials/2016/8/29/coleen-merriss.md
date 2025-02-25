@@ -20,7 +20,7 @@ layout: testimonials
               </div>
             </div>
             <h1>
-              <a href="testimonials/2016/8/29/coleen-merriss" rel="bookmark">Coleen Merriss</a>
+              <a href="/testimonials/2016/8/29/coleen-merriss" rel="bookmark">Coleen Merriss</a>
             </h1>
           </header>
           <div class="content">

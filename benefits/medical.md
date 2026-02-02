@@ -17,15 +17,15 @@ layout: default
         <h1>{{ page.title }}</h1>
         <h2>{{ page.description }}</h2>
         <ul>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Bronze-5000-Summary.pdf">Bronze $5,000</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Silver-3000-Summary.pdf">Silver $3,000</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Gold-1600-Summary.pdf">Gold $1,600</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Gold-HSA-2000-Summary.pdf">Gold $2,000 HSA Qualified</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Platinum-350-Summary.pdf">Platinum $350</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Platinum-550-Summary.pdf">Platinum $550</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Platinum-1200-Summary.pdf">Platinum $1,200</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Bronze-5000-Summary.pdf">Bronze $5,000</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Silver-3000-Summary.pdf">Silver $3,000</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Gold-1700-Summary.pdf">Gold $1,700</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Gold-HSA-2500-Summary.pdf">Gold $2,500 HSA Qualified</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Platinum-500-Summary.pdf">Platinum $500</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Platinum-750-Summary.pdf">Platinum $750</a></li>
+          <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Platinum-1500-Summary.pdf">Platinum $1,500</a></li>
           <li><a href="/assets/documents/2025/medical/2025-PHP-LG-Domestic-Partner-Plus.pdf">Domestic Partner Plus</a></li>
-          <li><a href="/assets/documents/2025/medical/PNCE-2025-01-01-Rx-Summary-(All-Plans-Except-HSA).pdf">Prescription Drug Plan</a></li>
+          <li><a href="/assets/documents/2026/medical/PPNCE-2025-01-01-Rx-Summary.pdf">Prescription Drug Plan</a></li>
           <li><a href="/assets/documents/2025/medical/2025-PHP-Vision-Premium.pdf">Vision Premium</a></li>
         </ul>
         <h3>Value added resources, Links, Forms and Information</h3>

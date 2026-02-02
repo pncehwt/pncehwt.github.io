@@ -38,10 +38,6 @@ layout: default
                 <li>
                   <p><a href="/assets/documents/2026/benefits/PNCE2026benefitsguide.pdf">2026 benefits guide</a></p>
                 </li>
-                <li><a href="/assets/documents/2025/benefits/HDHP-and-HSA-101.pdf">HDHP and HSA 101</a></li>
-                <li><a href="/assets/documents/2025/benefits/HSA101.pdf">Health Savings Accounts 101</a></li>
-                <li><a href="/assets/documents/2025/benefits/How-to-use-your-HSA.pdf">How to use your HSA – Infographic</a></li>
-                <li><a href="/assets/documents/2025/benefits/Tips-to-Maximize-Your-HSA.pdf">Tips to Maximize Your HSA</a></li>
               </ul>
             </div>
           </div>

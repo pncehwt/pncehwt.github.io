@@ -25,7 +25,7 @@ layout: default
           <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Platinum-750-Summary.pdf">Platinum $750</a></li>
           <li><a href="/assets/documents/2026/medical/PNCE-2026-01-01-Platinum-1500-Summary.pdf">Platinum $1,500</a></li>
           <li><a href="/assets/documents/2025/medical/2025-PHP-LG-Domestic-Partner-Plus.pdf">Domestic Partner Plus</a></li>
-          <li><a href="/assets/documents/2026/medical/PPNCE-2025-01-01-Rx-Summary.pdf">Prescription Drug Plan</a></li>
+          <li><a href="/assets/documents/2026/medical/PPNCE-2026-01-01-Rx-Summary.pdf">Prescription Drug Plan</a></li>
           <li><a href="/assets/documents/2025/medical/2025-PHP-Vision-Premium.pdf">Vision Premium</a></li>
         </ul>
         <h3>Value added resources, Links, Forms and Information</h3>
